@@ -1,0 +1,13 @@
+hi bhai
+    bol bhai "Ye output lo bhai :";
+
+    bhai ye hai number = ${number};
+
+    agar bhai (number % 2 == 0){
+        bol bhai number , "even number hai bhai.";
+    }
+    warna bhai {
+        bol bhai number , "odd number hai bhai.";
+    }
+
+bye bhai

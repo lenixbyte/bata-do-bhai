@@ -1,0 +1,16 @@
+{
+  "name": "bhailang-mw",
+  "version": "1.0.0",
+  "description": "Middleware for bhailang input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js test.bl"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bhailang": "^0.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
